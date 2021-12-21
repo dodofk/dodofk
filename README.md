@@ -1,6 +1,6 @@
 # github-profile-summary-cards-example
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+:star: [Tutorial]([![](https://raw.githubusercontent.com/dodofk/dodofk/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)) ( Recommendation ) :star:
 
 Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
